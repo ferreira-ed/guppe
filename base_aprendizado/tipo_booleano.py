@@ -11,7 +11,7 @@ obs: sempre com a inicial maiuscula
 
 ativo = False
 
-print(ativo)
+
 
 """
 Operações básicas
@@ -19,7 +19,7 @@ Operações básicas
 
 # Negação (not):
 """
-Fazendo a negação, se o valor booleano for veradeiro, o resultado será falso
+Fazendo a negação, se o valor booleano for verdadeiro, o resultado será falso
 se for falso, o resultado será verdadeiro.
 
 sempre o contrário

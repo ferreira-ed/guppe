@@ -11,3 +11,4 @@ help(tipo de dado/variavel.propriedade)
 """
 
 print(dir("geek"))
+
